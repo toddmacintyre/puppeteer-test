@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-test",
+  "version": "0.1.0",
+  "description": "Testing Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "Puppeteer"
+  ],
+  "author": "Todd MacIntyre",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
